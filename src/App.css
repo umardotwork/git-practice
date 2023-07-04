@@ -36,3 +36,53 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* 404 Not Found */
+
+/* .notfound {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-top: 8rem;
+} */
+
+.page404 {
+  text-align: center;
+  padding: 50px 0;
+  background: #fff;
+  font-family: "Arvo", serif;
+}
+
+.page404_bg {
+  background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.page404_bg h1 {
+  font-size: 60px;
+}
+
+.page404_bg h3 {
+  font-size: 80px;
+}
+
+.link404 {
+  color: #fff !important;
+  padding: 10px 20px;
+  background: #637162;
+  margin: 20px 0;
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 7px;
+}
+.link404:hover {
+  background-color: #404640;
+}
+
+.contantbox_404 {
+  margin-top: -50px;
+}
+  

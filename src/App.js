@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 import Hello from './Hello';
+import NotFound from './NotFound';
 
 function App() {
   return (
+    <>
     <div className="App">
-    
       <header className="App-header">
       <Hello />
         <img src={logo} className="App-logo" alt="logo" />
@@ -22,6 +23,8 @@ function App() {
         </a>
       </header>
     </div>
+    <NotFound />
+    </>
   );
 }
 
