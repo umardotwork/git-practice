@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Hello from "./Hello";
+import Hello from "./HelloPeeps";
+import NotFound from "./NotFound";
 
 function App() {
   return (
