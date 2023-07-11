@@ -37,7 +37,6 @@
   }
 }
 
-
 /* 404 Not Found */
 
 /* .notfound {
@@ -76,7 +75,7 @@
   margin: 20px 0;
   display: inline-block;
   text-decoration: none;
-  border-radius: 7px;
+  border-radius: 8px;
 }
 .link404:hover {
   background-color: #404640;
@@ -85,4 +84,3 @@
 .contantbox_404 {
   margin-top: -50px;
 }
-  
