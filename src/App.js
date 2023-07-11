@@ -1,7 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Hello from "./Hello";
-import NotFound from "./NotFound";
 
 function App() {
   return (
