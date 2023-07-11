@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: "Courier New", Courier, monospace;
 }
 
 .App-logo {
@@ -36,7 +37,6 @@
     transform: rotate(360deg);
   }
 }
-
 
 /* 404 Not Found */
 
@@ -85,4 +85,3 @@
 .contantbox_404 {
   margin-top: -50px;
 }
-  
